@@ -1,17 +1,7 @@
-def
-say_hello_world_ten_times
+def greeting
 
-  phrase = "Hello World!"
-  puts phrase
-  puts phrase
-  puts phrase
-  puts phrase
-  puts phrase
-  puts phrase
-  puts phrase
-  puts phrase
-  puts phrase
-  puts phrase
+  puts "Hello World"
+
 end
 
 say_hello_world_ten_times
